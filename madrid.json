@@ -5,7 +5,7 @@
         "price": "€ 10/person",
         "city": "Madrid",
         "numberPeople": "1/6",
-        "img": "https://drive.google.com/open?id=1gu1VUYDn8saxVE2PHoshUY_FSms8WzDp"
+        "img": "images/angelica.jpg"
     },
     
     {
@@ -14,7 +14,7 @@
         "price": "€ 15/person",
         "city": "Madrid",
         "numberPeople": "2/4",
-        "img": "https://drive.google.com/open?id=1G9gYhUz7_z1cJDn-twUb5V3tYsblQwGk"
+        "img": "images/raul.jpg"
     },
     
     {
@@ -23,7 +23,7 @@
         "price": "€ 12/person",
         "city": "Madrid",
         "numberPeople": "3/5",
-        "img": "https://drive.google.com/open?id=1lyeppfbhtzZYbA6byeBufBFLgb3kMMfa"
+        "img": "images/aida.jpg"
     },
     
     {
@@ -32,7 +32,7 @@
         "price": "€ 11/person",
         "city": "Madrid",
         "numberPeople": "2/4",
-        "img": "https://drive.google.com/open?id=16GKeqTgPqNQkM4f3joFU04OVXyRG5msZ"
+        "img": "images/ernesto.jpg"
     },
     
     {
@@ -41,7 +41,7 @@
         "price": "€ 09/person",
         "city": "Madrid",
         "numberPeople": "2/4",
-        "img": "https://drive.google.com/open?id=1zn_GQEILpYIyBMrpUyaE-5K4E-IG8RP0"
+        "img": "images/alejandro.jpg"
     },
     
     {
@@ -50,6 +50,6 @@
         "price": "€ 13/person",
         "city": "Madrid",
         "numberPeople": "2/4",
-        "img": "https://drive.google.com/open?id=1sXvbZ7Qvod7aDjm0y_ouJlu0VNmghZI8"
+        "img": "images/alvaro.jpg"
     }
 ]
