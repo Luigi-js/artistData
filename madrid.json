@@ -2,7 +2,7 @@
   {
         "name": "Angelica",
         "artType": "Performance of classic soprano",
-        "price": "€10/person",
+        "price": "â‚¬ 10/person",
         "city": "Madrid",
         "numberPeople": "1/6",
         "img": "https://drive.google.com/open?id=1gu1VUYDn8saxVE2PHoshUY_FSms8WzDp"
@@ -11,7 +11,7 @@
     {
         "name": "Raul",
         "artType": "Little artistic ceramic creations",
-        "price": "€15/person",
+        "price": "â‚¬ 15/person",
         "city": "Madrid",
         "numberPeople": "2/4",
         "img": "https://drive.google.com/open?id=1G9gYhUz7_z1cJDn-twUb5V3tYsblQwGk"
@@ -20,7 +20,7 @@
     {
         "name": "Aida",
         "artType": "Artistic cakes",
-        "price": "€12/person",
+        "price": "â‚¬ 12/person",
         "city": "Madrid",
         "numberPeople": "3/5",
         "img": "https://drive.google.com/open?id=1lyeppfbhtzZYbA6byeBufBFLgb3kMMfa"
@@ -29,7 +29,7 @@
     {
         "name": "Ernesto",
         "artType": "Wood objects",
-        "price": "€11/person",
+        "price": "â‚¬ 11/person",
         "city": "Madrid",
         "numberPeople": "2/4",
         "img": "https://drive.google.com/open?id=16GKeqTgPqNQkM4f3joFU04OVXyRG5msZ"
@@ -38,7 +38,7 @@
     {
         "name": "Alejandro",
         "artType": "Live Flamenco concert in my dining room",
-        "price": "€09/person",
+        "price": "â‚¬ 09/person",
         "city": "Madrid",
         "numberPeople": "2/4",
         "img": "https://drive.google.com/open?id=1zn_GQEILpYIyBMrpUyaE-5K4E-IG8RP0"
@@ -47,7 +47,7 @@
     {
         "name": "Alvaro",
         "artType": "Listen my own music with a glass of wine",
-        "price": "€13/person",
+        "price": "â‚¬ 13/person",
         "city": "Madrid",
         "numberPeople": "2/4",
         "img": "https://drive.google.com/open?id=1sXvbZ7Qvod7aDjm0y_ouJlu0VNmghZI8"
