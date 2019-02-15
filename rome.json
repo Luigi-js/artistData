@@ -1,0 +1,55 @@
+[
+  {
+        "name": "Maria",
+        "artType": "How to cook an artistic dinner",
+        "price": "€10/person",
+        "city": "Rome",
+        "numberPeople": "2/6",
+        "img": "https://drive.google.com/open?id=17p_cUWlq5HP81oI-hpk0Hqs-uybzakCc"
+    },
+    
+    {
+        "name": "Monica",
+        "artType": "Handmade jewelry in my garage",
+        "price": "€06/person",
+        "city": "Rome",
+        "numberPeople": "3/7",
+        "img": "https://drive.google.com/open?id=1mVuLD-9XM9ZXyNZbZem3CzMJkEMp4NUg"
+    },
+    
+    {
+        "name": "Lucia",
+        "artType": "Best selection of Italian songs",
+        "price": "€08/person",
+        "city": "Rome",
+        "numberPeople": "2/5",
+        "img": "https://drive.google.com/open?id=1fqS-AVtBhjN-7wltd5XSxRMppMp4mOG7"
+    },
+    
+    {
+        "name": "Lorenzo",
+        "artType": "Artistic draws in the sand",
+        "price": "€12/person",
+        "city": "Rome",
+        "numberPeople": "2/4",
+        "img": "https://drive.google.com/open?id=1fzaxfWf_EF86B0j65lpKVS-jL8Ac4JFE"
+    },
+    
+    {
+        "name": "Claudia",
+        "artType": "Let's do art with candles",
+        "price": "€15/person",
+        "city": "Rome",
+        "numberPeople": "3/4",
+        "img": "https://drive.google.com/open?id=138zQT1ZITlREXMmpwP2k0bPDxSLF5UPh"
+    },
+    
+    {
+        "name": "Clara",
+        "artType": "Paint your dishes!",
+        "price": "€13/person",
+        "city": "Rome",
+        "numberPeople": "2/8",
+        "img": "https://drive.google.com/open?id=1rwpyZXWgdHSEhpgUF4Ixo7kMtfIDCz_h"
+    }
+]
