@@ -5,7 +5,7 @@
         "price": "€ 10/person",
         "city": "Rome",
         "numberPeople": "2/6",
-        "img": "https://drive.google.com/open?id=17p_cUWlq5HP81oI-hpk0Hqs-uybzakCc"
+        "img": "images/maria.jpg"
     },
     
     {
@@ -14,7 +14,7 @@
         "price": "€ 06/person",
         "city": "Rome",
         "numberPeople": "3/7",
-        "img": "https://drive.google.com/open?id=1mVuLD-9XM9ZXyNZbZem3CzMJkEMp4NUg"
+        "img": "images/monica.jpg"
     },
     
     {
@@ -23,7 +23,7 @@
         "price": "€ 08/person",
         "city": "Rome",
         "numberPeople": "2/5",
-        "img": "https://drive.google.com/open?id=1fqS-AVtBhjN-7wltd5XSxRMppMp4mOG7"
+        "img": "images/lucia.jpg"
     },
     
     {
@@ -32,7 +32,7 @@
         "price": "€ 12/person",
         "city": "Rome",
         "numberPeople": "2/4",
-        "img": "https://drive.google.com/open?id=1fzaxfWf_EF86B0j65lpKVS-jL8Ac4JFE"
+        "img": "images/lorenzo.jpg"
     },
     
     {
@@ -41,7 +41,7 @@
         "price": "€ 15/person",
         "city": "Rome",
         "numberPeople": "3/4",
-        "img": "https://drive.google.com/open?id=138zQT1ZITlREXMmpwP2k0bPDxSLF5UPh"
+        "img": "images/claudia.jpg"
     },
     
     {
@@ -50,6 +50,6 @@
         "price": "€ 13/person",
         "city": "Rome",
         "numberPeople": "2/8",
-        "img": "https://drive.google.com/open?id=1rwpyZXWgdHSEhpgUF4Ixo7kMtfIDCz_h"
+        "img": "images/clara.jpg"
     }
 ]
