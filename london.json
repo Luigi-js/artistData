@@ -1,11 +1,16 @@
 [
     {
+        "london": "lat:51.508530,lng:-0.076132"
+    },
+    
+    {
         "name": "Jonas",
         "artType": "Irish music with violin",
         "price": "£ 10/person",
         "city": "London",
         "numberPeople": "2/4",
-        "img": "images/jonas.jpg"
+        "img": "images/jonas.jpg",
+        "coordinates":"lat:51.5667,lng:-0.0333"
     },
     
     {
@@ -15,6 +20,7 @@
         "city": "London",
         "numberPeople": "1/4",
         "img": "images/oliver.jpg"
+        "coordinates":"lat:51.376495,lng:-0.100594"
     },
     
     {
@@ -23,7 +29,8 @@
         "price": "£ 12/person",
         "city": "London",
         "numberPeople": "2/4",
-        "img": "images/connor.jpg"
+        "img": "images/connor.jpg",
+        "coordinates":"lat:51.656489,lng:-0.39032"
     },
     
     {
@@ -32,7 +39,8 @@
         "price": "£ 13/person",
         "city": "London",
         "numberPeople": "3/5",
-        "img": "images/jacob.jpg"
+        "img": "images/jacob.jpg",
+        "coordinates":"lat:51.48619,lng:-0.3083"
     },
     
     {
@@ -41,7 +49,8 @@
         "price": "£ 09/person",
         "city": "London",
         "numberPeople": "2/7",
-        "img": "images/charlie.jpg"
+        "img": "images/charlie.jpg",
+        "coordinates":"lat:51.502361,lng:-0.191757"
     },
     
     {
@@ -50,6 +59,7 @@
         "price": "£ 08/person",
         "city": "London",
         "numberPeople": "1/3",
-        "img": "images/damian.jpg"
+        "img": "images/damian.jpg",
+        "coordinates":"lat:51.559143,lng:-0.119820"
     }
 ]
